@@ -1,0 +1,6 @@
+[patch]
+title = "Doronetwork"
+authors = ["Miol <miol20xx@gmail.com>"]
+
+[versions.'1.0.0']
+netplay_compatibility = "bn6"
